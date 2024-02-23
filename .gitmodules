@@ -1,3 +1,0 @@
-[submodule "opi-cm4/diskprices-scrape"]
-	path = opi-cm4/diskprices-scrape
-	url = git@github.com:za3k/diskprices-scrape.git
